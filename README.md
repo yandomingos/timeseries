@@ -1,4 +1,4 @@
-# Unit 10—A Yen for the Future
+# Time Series - A Yen for the Future
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
 
